@@ -1,16 +1,12 @@
 # 👔 Stylista AI Recommendation Engine
 
+![Java](https://img.shields.io/badge/Java-Android-orange?logo=java&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-Firestore-yellow?logo=firebase&logoColor=white)![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Custom%20Algorithms-blue?logo=python&logoColor=white)![License](https://img.shields.io/badge/License-MIT-green)
+
 ## **Tinder for Clothes - Swipe Right, AI Learns Your Style**
 
 Advanced machine learning recommendation system that transforms fashion discovery through intelligent personalization. Built from scratch with custom algorithms that deliver Netflix-quality recommendations for fashion e-commerce.
 
-![Java](https://img.shields.io/badge/Java-Android-orange?logo=java&logoColor=white)
 
-![Firebase](https://img.shields.io/badge/Firebase-Firestore-yellow?logo=firebase&logoColor=white)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Custom%20Algorithms-blue?logo=python&logoColor=white)
-
-![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ## 🚀 Key Achievements
